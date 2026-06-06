@@ -63,3 +63,5 @@ Tarayıcınızda açılan ekranda örnek soruları tıklayarak veya kendi sorula
 * "En az yakıt tüketen araç hangisi?" *(Statik Excel verisi testi)*
 * "Önümüzdeki hafta İstanbul'da hava nasıl olacak?" *(Canlı API testi)*
 * "Resmi tatiller nelerdir?" *(Eksik veya farklı veri kaynağı testi)*
+
+<img width="1640" height="888" alt="image" src="https://github.com/user-attachments/assets/1a8e5904-399f-4931-8ce5-fcfe55b0b831" />
